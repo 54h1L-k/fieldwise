@@ -1,6 +1,10 @@
 # Fieldwise
 
-An independent, interactive hackathon UI prototype inspired by [Agri-SAGE](https://arxiv.org/pdf/2607.00454).
+An interactive hackathon UI prototype by the creator of Agri Llama, inspired by the lab’s later [Agri-SAGE](https://arxiv.org/pdf/2607.00454) research.
+
+## Origin
+
+Fieldwise’s creator built Agri Llama, an early farmer-assistance agent, while working in the lab where Agri-SAGE later emerged. Agri Llama combined Llama fine-tuned on Indian agricultural data with retrieval-augmented generation (RAG). The lab’s work evolved through subsequent extensions into Agri-SAGE. This credits the initial Agri Llama contribution; the linked paper credits the later research authors.
 
 ## Run
 
